@@ -1,4 +1,4 @@
-# withouston
+# WIT:Houston
 ## Background  
 
 Women In Tech: Houston is a connector and community builder for all women in the tech industry in the Houston area. We foster supportive leadership, community, creative business disruption and economic development by and for women.  
@@ -13,7 +13,7 @@ We own http://withouston.org/ and have put up a placeholder theme. This is a sim
 2. Donate your space or other resources  
 Do you own a coffee shop, bar, or other local business that could host ~50 women for networking events? Or a space that is or could easily be a classroom? Or a larger space for a hackathon? 
 
-3. Contribute to the directory 
+3. Contribute to the directory  
 We’re working on a directory and map of organizations, programs and resources that help advance women in technology, from the classroom to the boardroom. Know of something/someone we should include? Tell us in the Slack: https://withouston.slack.com/ 
 
 4. Spread the word  
